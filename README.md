@@ -6,7 +6,7 @@ Land atmosphere interactions group from the 2025 ARM Summer School.
 
 Our guiding questions:
 
--energy balance closure at each site
+-energy balance closure at each site (S20, S30, S40, M1)
 
 -biosphere ↔ atmosphere state relationship
 
