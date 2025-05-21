@@ -1,7 +1,9 @@
-name: hackathon-template-github-dev
+name: land-atmosphere-interaction-dev
 channels:
   - conda-forge
 dependencies:
   - python=3.11
   - mystmd
   - cookiecutter
+  - act-atmos
+  - matplotlib

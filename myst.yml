@@ -1,28 +1,18 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
-  title: Hackathon Template Github
-  description: Github Pages based template for hackathons
+  title: Land Atmosphere Interactions
+  description: Land Atmosphere Interactions at Bankhead National Forest
   # keywords: []
   authors:
-    - name: Instructor Name
-      orcid: XXXX-XXXX-XXXX-XXXX
-      github: username
+    - name: Sébastien Biraud
   github: https://github.com/hackthackathon/hackathon-template-github
   # To autogenerate a Table of Contents, run "myst init --write-toc"
   toc:
     - file: README.md
-    - title: Organizing Preparation
-      children:
-        - file: organizers/getting-started.md
-        - file: organizers/organizing-checklist.md
-        - file: organizers/survey-template.md
-    - title: Projects
-      children:
-        - pattern: 'projects/project-*'
 site:
   template: book-theme
   # Modify this section with the logos of your choice
   options:
-    favicon: https://hackthackathon.github.io/images/navbar-logo.png
-    logo: https://hackthackathon.github.io/images/navbar-logo.png
+    favicon: images/arm_logo.png
+    logo: images/arm_logo.png
