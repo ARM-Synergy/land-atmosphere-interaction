@@ -5,11 +5,34 @@ project:
   description: Land Atmosphere Interactions at Bankhead National Forest
   # keywords: []
   authors:
+    - name: Johnny Arriola Reyes
+      affiliation: Arizona State University
+    - name: Christine Deng
+      orcid: https://orcid.org/0009-0002-7492-5754
+      affiliation: Brookhaven National Laboratory
+    - name: Jaden Lau
+      orcid: https://orcid.org/0009-0007-8428-8062
+      affiliation: Cornell University
+    - name: Sara Nielson
+      orcid: https://orcid.org/0009-0000-7939-2438
+      affiliation: Colorado State University
+    - name: Siddhartha Regmi
+      orcid: https://orcid.org/0000-0003-2731-7916
+      affiliation: Clemson University
+    - name: Nanditha Subhash
+      orcid: https://orcid.org/0009-0005-6450-5897
+      affiliation: Texas Tech University
     - name: Sébastien Biraud
-  github: https://github.com/hackthackathon/hackathon-template-github
+      orcid: https://orcid.org/0000-0001-7697-933X
+      affiliation: Lawrence Berkeley National Laboratory
+    - name: Maxwell Grover
+      orcid: https://orcid.org/0000-0002-0370-8974
+      affiliation: Argonne National Laboratory
+  github: https://github.com/ARM-Synergy/land-atmosphere-interaction
   # To autogenerate a Table of Contents, run "myst init --write-toc"
   toc:
     - file: README.md
+    - pattern: notebooks/*
 site:
   template: book-theme
   # Modify this section with the logos of your choice

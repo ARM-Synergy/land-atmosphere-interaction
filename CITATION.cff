@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use the findings and workflows, please cite it as below."
+authors:
+  # add additional entries for each author -- see https://github.com/citation-file-format/citation-file-format/blob/main/schema-guide.md
+  - family-names: Arriola Reyes
+    given-names: Johnny
+    affiliation: Arizona State University
+  - family-names: Deng
+    given-names: Christine
+    orcid: https://orcid.org/0009-0002-7492-5754 # optional
+    affiliation: Brookhaven National Laboratory
+  - family-names: Lau
+    given-names: Jaden
+    orcid: https://orcid.org/0009-0007-8428-8062
+    affiliation: Cornell University
+  - family-names: Nielson
+    given-names: Sara
+    orcid: https://orcid.org/0009-0000-7939-2438 # optional
+    affiliation: Colorado State University
+  - family-names: Regmi
+    given-names: Siddhartha
+    orcid: https://orcid.org/0000-0003-2731-7916 # optional
+    affiliation: Clemson University
+  - family-names: Subhash
+    given-names: Nanditha
+    orcid: https://orcid.org/0009-0005-6450-5897
+    affiliation: Texas Tech University
+  - family-names: Biraud
+    given-names: Sebastien
+    orcid: https://orcid.org/0000-0001-7697-933X
+    affiliation: Lawrence Berkeley National Laboratory
+  - family-names: Grover
+    given-names: Maxwell
+    orcid: https://orcid.org/0000-0002-0370-8974
+    affiliation: Argonne National Laboratory
+ 
