@@ -2,9 +2,7 @@
 
 Land atmosphere interactions group from the 2025 ARM Summer School.
 
-## Group Members
-
-Our guiding questions:
+## Project Scope
 
 -energy balance closure at each site (S20, S30, S40, M1)
 
@@ -17,3 +15,6 @@ Our guiding questions:
 -ecosystem dynamics
 
 -distributed flux (LE/H) in region for LES simulations
+
+## Links
+- [Link to final presentation](https://docs.google.com/presentation/d/1qsvLBXQOPOl4G-papYP4F-GsHWNn-NLqbr46EmA83NI/edit?usp=sharing)
