@@ -1,5 +1,7 @@
 # Land Atmosphere Interaction
 
+[![DOI](https://zenodo.org/badge/987850032.svg)](https://doi.org/10.5281/zenodo.15545955)
+
 Land atmosphere interactions group from the 2025 ARM Summer School.
 
 ## Project Scope
